@@ -1657,6 +1657,7 @@ export const VALIDGUESSES = [
 'qaħba',
 'bassa',
 'nejka',
+'ħemda',
 ]
 
 if (CONFIG.normalization) {
