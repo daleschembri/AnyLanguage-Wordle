@@ -1,8 +1,8 @@
 {
     "name": "wordle",
-    "version": "0.1.0",
+    "version": "0.0.1",
     "homepage": "https://daleschembri.github.io/AnyLanguage-Wordle",
-    "private": true,
+    "private": false,
     "dependencies": {
         "@bcgov/bc-sans": "^1.0.1",
         "@headlessui/react": "^1.4.2",
