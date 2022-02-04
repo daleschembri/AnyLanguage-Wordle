@@ -1,7 +1,7 @@
 {
-    "name": "wordle",
+    "name": "xkelma",
     "version": "1.0.1",
-    "homepage": "https://daleschembri.github.io/AnyLanguage-Wordle",
+    "homepage": "https://daleschembri.github.io/xkelma",
     "private": false,
     "dependencies": {
         "@bcgov/bc-sans": "^1.0.1",
