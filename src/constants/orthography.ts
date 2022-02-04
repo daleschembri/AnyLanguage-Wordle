@@ -28,7 +28,6 @@ export const ORTHOGRAPHY = [
   'v',
   'w',
   'x',
-  '̱y',
   'z',
   'ż',
 ]
