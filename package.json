@@ -1,6 +1,6 @@
 {
     "name": "wordle",
-    "version": "0.0.1",
+    "version": "1.0.1",
     "homepage": "https://daleschembri.github.io/AnyLanguage-Wordle",
     "private": false,
     "dependencies": {
