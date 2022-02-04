@@ -1271,7 +1271,6 @@ export const VALIDGUESSES = [
 'kinux',
 'telaq',
 'setax',
-'mons.',
 'jmiss',
 'tilef',
 'ħamis',
@@ -1655,6 +1654,9 @@ export const VALIDGUESSES = [
 'baxxa',
 'tarah',
 'speċi',
+'qaħba',
+'bassa',
+'nejka',
 ]
 
 if (CONFIG.normalization) {
